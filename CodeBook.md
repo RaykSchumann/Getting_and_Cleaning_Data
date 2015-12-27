@@ -79,20 +79,12 @@ LAYING (value 6)
 ###Columns of tidy data set
 
 subjectId
-
 activityType
-
 activityId
-
 timeBodyAcc.mean...X
-
 timeBodyAcc.mean...Y
-
 timeBodyAcc.mean...Z
-
 timeGravityAcc.mean...X
-
-
 timeGravityAcc.mean...Y
 
 timeGravityAcc.mean...Z
